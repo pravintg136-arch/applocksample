@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.AppLock" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#5B5BF6</item>
+        <item name="colorPrimaryVariant">#4444CC</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="android:statusBarColor">#5B5BF6</item>
+    </style>
+</resources>
